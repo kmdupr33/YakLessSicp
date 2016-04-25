@@ -1,4 +1,4 @@
-(load "ch1/1.1.6/1-1-6-exercise-tests.scm")
+(load "1.1.6/1.1.6-exercise-tests.scm")
 
 ;;; Exerise 1.1
 
@@ -24,3 +24,9 @@ expression in the list of expressions given for exercise 1.1
 (define exp13 '())
 
 (test-exercise-1-1)
+
+;;; Exercise 1.2
+
+(define prefixForm '())
+
+(test-exercise-1-2)
